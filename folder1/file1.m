@@ -38,3 +38,5 @@ function out = file1(in)
 % subsequent update from igor.broadmonk (via Git Eye): pull, change, commit and push
 
 % test the flow!!!
+
+% test the flow from GitEye

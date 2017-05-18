@@ -46,10 +46,7 @@ function out = file1(in)
 
 % edit from IKDAG in alternative-branch
 
-<<<<<<< HEAD
 % adding "functionality" by working in another-branch
 
-=======
->>>>>>> origin/master
 disp('functionality first tested in another-branch');
 

@@ -46,3 +46,7 @@ function out = file1(in)
 
 % edit from IKDAG in alternative-branch
 
+% adding "functionality" by working in another-branch
+
+disp('functionality first tested in another-branch');
+
